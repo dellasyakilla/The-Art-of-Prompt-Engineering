@@ -7,8 +7,6 @@
 ##### Name : Della Syakilla
 ##### Program : IBM Advance AI
 
-### Tech Stack
-##### Name : Della Syakilla
 
 
 
